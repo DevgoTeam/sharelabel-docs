@@ -8,19 +8,19 @@ Such user instructions can be provided in the printed form, online, or offline o
 
 ## Table Of Content
 
-1. [Introduction](./features/introdoction.md)
+1. [Introduction](./features/introduction.md)
 2. [Prep for planning](./features/FAQs.md)
-    1. [Plan and prioritize](./features/introdoction.md)
-3. [Execute & stay on track](./features/introdoction.md)
-4. [Deliver Your Business Strategy Update](./features/introdoction.md)
-5. [Improve Your Project Plan](./features/introdoction.md)
-    1. [Features](./features/introdoction.md)
-    2. [Productivity](./features/introdoction.md)
-6. [Human resources](./features/introdoction.md)
-7. [Project Planning](./features/introdoction.md)
-    1. [Teamwork](./features/introdoction.md)
-      1. [Development](./features/introdoction.md)
-8. [Unordered](./features/introdoction.md)
+    1. [Plan and prioritize](./features/introduction.md)
+3. [Execute & stay on track](./features/introduction.md)
+4. [Deliver Your Business Strategy Update](./features/introduction.md)
+5. [Improve Your Project Plan](./features/introduction.md)
+    1. [Features](./features/introduction.md)
+    2. [Productivity](./features/introduction.md)
+6. [Human resources](./features/introduction.md)
+7. [Project Planning](./features/introduction.md)
+    1. [Teamwork](./features/introduction.md)
+      1. [Development](./features/introduction.md)
+8. [Unordered](./features/introduction.md)
 
 
 
