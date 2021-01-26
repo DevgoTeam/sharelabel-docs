@@ -8,7 +8,7 @@ Such user instructions can be provided in the printed form, online, or offline o
 
 ## Table Of Content
 
-1. [Introduction](./features/introduction.md)
+1. [Introduction](./features/Introduction.md)
 2. [Prep for planning](./features/FAQs.md)
     1. [Plan and prioritize](./features/introduction.md)
 3. [Execute & stay on track](./features/introduction.md)
