@@ -10,16 +10,16 @@ Such user instructions can be provided in the printed form, online, or offline o
 
 1. [Introduction](./introdoction.md)
 2. [Prep for planning](./FAQs.md)
-  1. [Plan and prioritize](./introdoction.md)
+    1. [Plan and prioritize](./introdoction.md)
 3. [Execute & stay on track](./introdoction.md)
 4. [Deliver Your Business Strategy Update](./introdoction.md)
 5. [Improve Your Project Plan](./introdoction.md)
-  1. [Features](./introdoction.md)
-  2. [Productivity](./introdoction.md)
+    1. [Features](./introdoction.md)
+    2. [Productivity](./introdoction.md)
 6. [Human resources](./introdoction.md)
 7. [Project Planning](./introdoction.md)
-  1. [Teamwork](./introdoction.md)
-    1. [Development](./introdoction.md)
+    1. [Teamwork](./introdoction.md)
+      1. [Development](./introdoction.md)
 8. [Introduction](./introdoction.md)
 
 
