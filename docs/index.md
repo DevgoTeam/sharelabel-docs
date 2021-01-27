@@ -11,7 +11,7 @@ Such user instructions can be provided in the printed form, online, or offline o
 1. [Overview](./features/intro.md)
 2. [Getting Started](./features/FAQs.md)
     1. [New User](./features/FAQs.md)
-    2. [First time log in]
+    2. [First time log in](./features/FAQs.md)
 3. [Import users](./features/intro.md)
 4. [Create Projects](./features/intro.md)
 5. [Create Labels](./features/introduction.md)
@@ -28,16 +28,16 @@ Such user instructions can be provided in the printed form, online, or offline o
 
 
 
-```markdown
-Syntax highlighted code block
+## ```markdown
+## Syntax highlighted code block
 
-- Bulleted
-- List
+## - Bulleted
+## - List
 
-1. Numbered
-2. List
+## 1. Numbered
+## 2. List
 
-**Bold** and _Italic_ and `Code` text
+## **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+## [Link](url) and ![Image](src)
 ```
