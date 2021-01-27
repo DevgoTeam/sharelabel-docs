@@ -8,19 +8,23 @@ Such user instructions can be provided in the printed form, online, or offline o
 
 ## Table Of Content
 
-1. [Introduction](./features/intro.md)
-2. [Prep for planning](./features/FAQs.md)
-    1. [Plan and prioritize](./features/FAQs.md)
-3. [Execute & stay on track](./features/intro.md)
-4. [Deliver Your Business Strategy Update](./features/intro.md)
-5. [Improve Your Project Plan](./features/introduction.md)
+1. [Overview](./features/intro.md)
+2. [Getting Started](./features/FAQs.md)
+    1. [New User](./features/FAQs.md)
+    2. [First time log in]
+3. [Import users](./features/intro.md)
+4. [Create Projects](./features/intro.md)
+5. [Create Labels](./features/introduction.md)
     1. [Features](./features/intro.md)
     2. [Productivity](./features/intro.md)
-6. [Human resources](./features/intro.md)
-7. [Project Planning](./features/intro.md)
+6. [Working with Projects](./features/intro.md)
+    1. [Assign Labels to Projects](./features/intro.md)
+    1. [Assign Users to Projects](./features/intro.md)
+7. [Create Tenant](./features/intro.md)
     1. [Teamwork](./features/intro.md)
       1. [Development](./features/intro.md)
-8. [Unordered](./features/intro.md)
+8. [Installation and configuration of the satellite server](./features/intro.md)
+
 
 
 
